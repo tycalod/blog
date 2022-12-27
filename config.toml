@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://github.com/tycalod/blog.git'
 languageCode = 'fr-fr'
 title = 'My Gwada'
 theme= "aether"
